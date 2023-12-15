@@ -4,7 +4,7 @@ Perkenalkan nama saya **Picessa Kresna**.<br>
  
 Saya seorang Mahasiswa<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/picessakresna/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/picessakresna/) ya.
  
 ### Github Statistic
 <p align="left">
